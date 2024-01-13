@@ -41,7 +41,7 @@ Here I dumped everything that I talked about in the Processing Workshop organise
 
 ## Some other projects with P3D
 
-- [3D Terran](3D Terran/sketch_3D_Terran)
+- [3D Terran](sketch_3D_Terran)
 - [Tesseract](Tesseract)
 - [3D Tree](sketch_3D_Tree)
 ## Enough talking !! Let's code Butterfly Effect !!
