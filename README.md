@@ -16,7 +16,7 @@ Here I dumped everything that I talked about in the Processing Workshop organise
 - Documentation of [P3D](https://processing.org/tutorials/p3d), [PVectors](https://processing.org/reference/PVector.html) and [peasycam](https://mrfeinberg.com/peasycam/)
 - What is [Delta Time](https://en.wikipedia.org/wiki/Delta_timing)
 - Delta Time based [Animations](https://www.viget.com/articles/time-based-animation/)
-- [HSB](https://kdoore.gitbook.io/cs1335-java-and-processing/getting-started/hsb_color_mode)Colour Mode
+- [HSB](https://kdoore.gitbook.io/cs1335-java-and-processing/getting-started/hsb_color_mode) Colour Mode
 
 ## Examples I used,
 
