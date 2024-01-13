@@ -716,4 +716,4 @@ void draw() {
 
 ![](Lorenz_Attractor/Untitled.gif)
 
-Feel free to [contact me](mailto:somatamojit@gamil.com) regarding anything :').
+Feel free to [contact me](mailto:somatamojit@gmail.com) regarding anything :').
