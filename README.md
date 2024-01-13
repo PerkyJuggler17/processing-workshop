@@ -44,6 +44,7 @@ Here I dumped everything that I talked about in the Processing Workshop organise
 - [3D Terran](sketch_3D_Terran)
 - [Tesseract](Tesseract)
 - [3D Tree](sketch_3D_Tree)
+---
 ## Enough talking !! Let's code Butterfly Effect !!
 
 - ### [Video by Daniel Shiffman](https://www.youtube.com/watch?v=f0lkz2gSsIk) from where I took this code.
@@ -713,4 +714,4 @@ void draw() {
 
 ## Enjoy the view !
 
-[](Lorenz_Attractor/Untitled.gif)
+![](Lorenz_Attractor/Untitled.gif)
