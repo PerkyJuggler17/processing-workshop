@@ -68,7 +68,8 @@ void draw() {
 - Implementing the differential equations.
 - Adding dx, dy, dz as increments.
 - Talk about the time steps dt. (why so small !!)
-```float x = 0.01;
+```
+float x = 0.01;
 float y = 0;
 float z = 0;
 
@@ -86,7 +87,8 @@ void draw() {
 ```
 
 - adding the increments with the actual value.
-```float x = 0.01;
+```
+float x = 0.01;
 float y = 0;
 float z = 0;
 
@@ -168,7 +170,8 @@ void draw() {
 ```
 
 - Now let's work in 3D !! `size(1500, 900, P3D);`
-```float x = 0.01;
+```
+float x = 0.01;
 float y = 0;
 float z = 0;
 
